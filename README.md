@@ -1,3 +1,3 @@
 # DataStructure
 
-##The code of the datastructure
+## The code of the datastructure
